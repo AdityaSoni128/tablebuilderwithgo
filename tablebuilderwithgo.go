@@ -1,4 +1,4 @@
-package Tablebuilderwithgo
+package tablebuilderwithgo
 
 import "fmt"
 
