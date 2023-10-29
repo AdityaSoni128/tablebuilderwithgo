@@ -1,10 +1,6 @@
-package main
+package Tablebuilderwithgo
 
 import "fmt"
-
-func main() {
-	fmt.Println("this is version 1.0.0 from table Builder")
-}
 
 func GetTable(val int) {
 	for i := 1; i <= 10; i++ {
